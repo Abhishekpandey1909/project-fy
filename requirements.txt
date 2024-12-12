@@ -1,6 +1,5 @@
-numpy
-mediapipe
-opencv-python
-tensorflow
-scipy
-sreamlit
+numpy>=1.19.2
+mediapipe>=0.10.15
+opencv-python>=4.5.1
+tensorflow>=2.0.0
+sreamlit>=1.0.0
